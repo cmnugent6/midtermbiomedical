@@ -18,6 +18,8 @@ Training the Classifier (Assignment1)
 1. A classifier was trained based of this data set. See "classifier.ipbyn" for the results. 
 The accuracy is shown in the confusion matrix as .99 for DME and .94 for DRUSEN on the Test partition of data.
 
+2. The data was augmentated and preprocessed, see results of images in the ipbyn.
+
 ------------------------------------------------------------------------------------------------------------------
 
 Generating images using SRGAN
